@@ -1,0 +1,35 @@
+#hero-section{
+    background-image: url("../Asset/IMG-20240218-WA0013.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+header{
+    font-size: 15px;
+}
+
+
+header{
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16) , 0 2px 10px 0 rgba(0,0,0,0.12);;
+}
+
+#br-word{
+    background-color: rgba(0,0,0,0.75);
+}
+
+#project-section h6{
+    font-size: 14px;
+}
+
+#hero-section h1 span{
+    font-size: 30px;
+}
+
+#about-section img{
+    filter: grayscale(0.75);
+}
+
+/* #contact-section input{
+    width: auto;
+} */
